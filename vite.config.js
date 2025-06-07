@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/twice-comunicaciones/', // <-- ¡ESTO ES CLAVE!
+  base: '/twice-comunicaciones/',
   plugins: [react()],
   server: {
     port: 3000,
