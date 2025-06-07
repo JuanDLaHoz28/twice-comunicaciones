@@ -1,5 +1,9 @@
 # Examen Final React JUAN DELAHOZ - ALEX REY
 
+# Enlace video Youtube (En caso de que no se ejecute correctamente la pagina abrir el video)
+
+https://youtu.be/pjEfj98AoAI
+
 # Enlace prototipo funcional Figma
 
 https://www.figma.com/proto/DTSfp2wGGGnVy3WPy3YWlH/Untitled?node-id=0-1&t=Azii3BAxmIucTelJ-1
