@@ -8,7 +8,7 @@ https://youtu.be/pjEfj98AoAI
 
 https://www.figma.com/proto/DTSfp2wGGGnVy3WPy3YWlH/Untitled?node-id=0-1&t=Azii3BAxmIucTelJ-1
 
-#Enlace pagina web (GitHub Pages)
+# Enlace pagina web (GitHub Pages)
 https://juandlahoz28.github.io/twice-comunicaciones/
 
 
